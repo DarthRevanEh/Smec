@@ -1,0 +1,20 @@
+Troubleshooting guide:
+
+1. Make sure you have all the files, images, and executables in one single folder.
+
+2. Click the executable corresponding to your resolution to play.
+
+3. Contact enbraam@gmail.com if you have further questions.
+
+Known glitches:
+
+1.
+Sometimes, after atacking, your hitbox will stay active forever.
+If you use your ground attack when this happens, you will be stuck, unable to move, until you are hit.
+Getting hit seems to sometimes fix the glitch, but not all the time.
+
+2.
+Sometimes, when using your up-air attack, you will be stuck in that pose, unable to jump,
+until you hit the ground. Landing seems to end this glitch, but nevertheless you 
+can lose a combo because of this.
+

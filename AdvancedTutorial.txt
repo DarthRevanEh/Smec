@@ -1,0 +1,118 @@
+Welcome the the advanced tutorial!
+Make sure you read README.txt first!
+
+This tutorial will teach you how to win!
+Let's dive right in:
+
+When moving on the ground, pressing left or right will make you move instantly. 
+However, when in the air, you have velocity, meaning if you stop pressing left or right, 
+you will continue moving through the air. Use this to approach your opponent while attacking.
+
+You have two jumps, one off the ground and one in the air. Falling off the stage without jumping
+will leave you with only your aerial jump. You will regain your jumps when you land back on the stage,
+but you will not get your aerial jump back if you are hit in the air.
+Trying to hit your opponent in the air when they do not have any jumps left is a great way of killing them early.
+Pressing left or right while you jump will make you jump with the maximum left or right velocity.
+It will also change your direction (which way you are facing). Use this to outmaneuver your opponent in the air!
+
+Pressing down while in the air will make you fall more quickly. Use this to attack grounded opponents from above,
+or to fall quickly after an aerial attack.
+
+Every move has its own unique knockback, hitstun (amount of time the opponent will be unable to move after being hit) 
+and trajectory (some moves have more vertical knockback, others horizontal).
+
+Every time you are hit, your damage percent increases. The higher your damage percent, 
+the further you will go flying when hit, and the longer you will be in hitstun.
+
+If you are hit closer to the center of your player, your damage percent will 
+increase more than if you are hit near the edges of your player.
+
+
+There are three characters to choose from, each with their own gameplay styles.
+
+
+1. Wu
+
+A sensei from somewhere in Asia. A very balanced fighter, with a mild combo game 
+and some powerful kill moves. Easy to learn, but tough to master.
+
+Setup moves:
+Up air
+Neutral air
+Down air
+
+Kill moves:
+Ground hit
+Forward air
+Back air
+Down air
+Up air
+
+Useful combos:
+Neutral air -> Forward air
+Down air -> Ground hit
+Up air -> Up air (off the top)
+
+Special ability: Zen
+As Wu becomes more damaged, he also becomes more focused: If Wu is at high damage percent, he will deal extra knockback to 
+enemies, even if they are not at a high damage percent. Using this, Wu can score some incredibly quick kills!
+
+
+2. Dante
+
+Dante's the name, combo's the game. Dante is a fast fighter who excels at long combos. Not easy
+to play, but if played correctly, can be an unbeatable force.
+
+Setup moves:
+Ground hit
+Up air
+Neutral air
+Down air
+
+Kill moves:
+Forward air
+Back air
+Down air
+
+Useful combos:
+Ground hit -> Back air
+The Pillar: Ground hit -> Down air -> Ground hit (repeat)
+The Dante Special : Ground hit -> Up air -> Forward air
+
+Special ability: Float
+When in the air, Dante will fall more slowly than other fighters,
+thanks to his cape. Use this to hover near the edge and forward air a 
+recovering enemy, or to get back to the stage after a long offstage combo. 
+
+
+3. Astro 
+
+If you like cyborg killing machines, Astro is for you. With a gun as a hand,
+Astro punches, kicks and shoots his way to victory. Astro has incredible range and
+knockback, but very little hitstun. If your opponent isn't fast, they will find themselves
+dying before they even land a hit. Yes, Astro is the jerk who brought a gun to a fist fight.
+
+Setup moves:
+Up air
+Down air
+
+Kill moves:
+Everything
+
+Useful combos:
+Ground hit -> Forward air
+Down air -> Ground hit
+
+Special ability: Range
+Most of Astro's moves have hitboxes outside of Astro's hitbox,
+meaning you can easily hit the enemies without being hit in return.
+Use this to your advantage and space yourself correctly,
+and you will be untouchable. 
+
+
+*************************************
+This concludes the advanced tutorial! Now go out there and kick some tail!
+- Eli Braam
+
+
+
