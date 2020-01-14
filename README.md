@@ -1,3 +1,12 @@
+SCREENSHOTS
+
+![Alt text](/Screenshots/SmecOpen.png?raw=true)
+![Alt text](/Screenshots/Smec1.png?raw=true)
+![Alt text](/Screenshots/Smec2.png?raw=true)
+![Alt text](/Screenshots/Smec3.png?raw=true)
+![Alt text](/Screenshots/Smec4.png?raw=true)
+![Alt text](/Screenshots/Smec5.png?raw=true)
+
 USER DOCUMENTATION
 
 Smec
@@ -22,7 +31,7 @@ Every time you are hit, your damage percent increases. The higher your damage pe
 you will go flying when hit, and the longer you will be unable to move.
 
 If you go too far offscreen in any direction, you will die. 
-You have five lives. Run out of lives, and it’s over.
+You have five lives. Run out of lives, and itâ€™s over.
 
 
 Each player's controls are as follows: 
