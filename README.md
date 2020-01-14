@@ -5,7 +5,6 @@ SCREENSHOTS
 ![Alt text](/Screenshots/Smec2.png?raw=true)
 ![Alt text](/Screenshots/Smec3.png?raw=true)
 ![Alt text](/Screenshots/Smec4.png?raw=true)
-![Alt text](/Screenshots/Smec5.png?raw=true)
 
 USER DOCUMENTATION
 
@@ -36,46 +35,36 @@ You have five lives. Run out of lives, and it’s over.
 
 Each player's controls are as follows: 
 
-______________________________________________________________________
-Key:		| Player One:	| Player Two:
-		|		| 
-up_key		| w		| UP_ARROW
-		|		|
-down_key	| s		| DOWN_ARROW
-		|		|
-left_key	| a		| LEFT_ARROW
-		|		|
-right_key	| d		| RIGHT_ARROW
-		|		|
-attack_key	| g		| 0 (on number pad)
-		|		|
-______________________________________________________________________
+Player One: 
+Move: w a s d 
+Attack: g
+
+Player Two: 
+Move: UP_ARROW, DOWN_ARROW, LEFT_ARROW, RIGHT_ARROW
+Attack: 0 (also works on number pad)
 
 
 Using these controls, each player has 9 possible commands:
-______________________________________________________________________
-Command:		|  KEY COMBINATION
-			|
-Move			| [left_key or right_key]
-			|
-Jump			| [up_key]
-			|
-Fast fall		| [down_key] when in air
-			|
-Ground hit		| [attack_key] when on ground
-			|
-Neutral air hit		| [attack_key] when in air
-			|
-Forward air hit		| [attack_key] + [right_key or left_key] 
-			| (depending on which way player is facing) when in air
-			|
-Back air hit		| [attack_key] + [right_key or left_key] 
-			| (depending on which way player is facing) when in air
-			|
-Up air hit		| [attack_key] + [up_key] when in air
-			|
-Down air hit		| [attack_key] + [down_key] when in air
-______________________________________________________________________
+
+Move: 		 [left_key or right_key]
+
+Jump: 		 [up_key]
+
+Fast fall: 	 [down_key] when in air
+
+Ground hit: 	 [attack_key] when on ground
+
+Neutral air hit: [attack_key] when in air
+
+Forward air hit: [attack_key] + [right_key or left_key] 
+			(depending on which way player is facing) when in air
+
+Back air hit: 	 [attack_key] + [right_key or left_key] 
+			(depending on which way player is facing) when in air
+
+Up air hit: 	 [attack_key] + [up_key] when in air
+
+Down air hit: 	 [attack_key] + [down_key] when in air
 
 Those are the basics of how to play!
 
